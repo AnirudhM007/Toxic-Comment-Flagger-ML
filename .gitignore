@@ -1,0 +1,20 @@
+# Virtual environment
+bin/
+lib/
+include/
+pyvenv.cfg
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+*.log
+
+# OS files
+.DS_Store
+
