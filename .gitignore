@@ -12,7 +12,6 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Data files
-*.csv
 *.log
 
 # OS files
